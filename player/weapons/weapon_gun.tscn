@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://bo3drtqnwlh0x"]
+
+[ext_resource type="Script" path="res://player/weapons/weapon_gun.gd" id="1_3pnio"]
+[ext_resource type="PackedScene" uid="uid://d17vbtse3pbh1" path="res://player/bullets/bullet_circle.tscn" id="2_rkjs4"]
+
+[node name="WeaponGun" type="Node2D" node_paths=PackedStringArray("attack_speed")]
+script = ExtResource("1_3pnio")
+bullet_type = ExtResource("2_rkjs4")
+bullet_quantity = 5
+attack_speed = NodePath("Timer")
+
+[node name="Timer" type="Timer" parent="."]
+autostart = true

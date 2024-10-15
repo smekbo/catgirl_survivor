@@ -1,0 +1,35 @@
+res://main.tscn
+res://enemies/enemy.tscn
+res://player/player.tscn
+res://player/weapons/weapon.tscn
+res://player/weapons/weapon_base.tres
+res://addons/my_custom_node/my_button.gd
+res://player/weapons/weapon_base.gd
+res://addons/my_custom_node/custom_node.gd
+res://addons/my_custom_dock/My Dock.tscn
+res://addons/my_dock/My Dock.tscn
+res://addons/my_dock/plugin.cfg
+res://addons/my_dock/my_dock.tscn
+res://addons/my_dock/my_dock.gd
+res://player/player.gd
+res://player/bullets/bullet_base.tscn
+res://player/bullets/bullet_base.tres
+res://player/bullets/bullet_base.gd
+res://player/bullets/bullet_test.tscn
+res://player/bullets/bullet_circle.tscn
+res://player/bullets/bullet_circle.gd
+res://player/weapons/weapon_gun.gd
+res://player/weapons/weapon_gun.tscn
+res://enemies/enemy.gd
+res://enemies/enemy_stats.gd
+res://enemies/enemy_basic.tscn
+res://enemies/Enemy.gd
+res://enemies/enemy_basic.gd
+res://enemies/enemy_stats.tres
+res://enemies/basic/enemy_basic.tscn
+res://enemies/enemy_spawner.gd
+res://enemies/enemy_spawner.tscn
+res://player/debug_info.gd
+res://test_maps/boid_test.tscn
+res://player/weapons/Weapon.gd
+res://player/bullets/Bullet.gd

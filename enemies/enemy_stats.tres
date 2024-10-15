@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://cdi8t77tl7m0i"]
+
+[ext_resource type="Script" path="res://enemies/enemy_stats.gd" id="1_knmyn"]
+
+[resource]
+script = ExtResource("1_knmyn")
+SPEED = 300.0
+HEALTH = 10
+SIZE = 1
+VARIANT = Color(0.392157, 0.584314, 0.929412, 1)
